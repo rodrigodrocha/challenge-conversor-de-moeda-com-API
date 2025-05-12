@@ -20,5 +20,7 @@ A API utilizada para verificar os cotação cambial das moedas é [exchangerate-
 <li>Segundo vai escolher o valor da operação</li>
 <li>E por fim você ira receber um retorno parecido com esse: <b>"O Valor de $300,00 Dollar em REAL é de R$1695,30"</b></li>
 </ul>
-Imagem de funcionamento do sistema.
+
+## Imagem do funcionamento
+
 <img src="./conversor-de-moeda/src/br/com/img/image.png"></img>
