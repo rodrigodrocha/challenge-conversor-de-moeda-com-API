@@ -48,7 +48,7 @@ public class App {
                 System.out.printf("o Valor de R$%.2f Real em Dollar é de $%.2f\n", valor, resultado);
             }else if (option == 6) {
                 double resultado = valor / exchangeData.getConversion_rates().get("COP");
-                System.out.printf("o Valor de %.2f Peso Colombiano em Dollar é de $%.2f\n", valor, resultado);
+                System.out.printf("O Valor de %.2f Peso Colombiano em Dollar é de $%.2f\n", valor, resultado);
             }
 
         }
